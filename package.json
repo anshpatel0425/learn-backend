@@ -1,0 +1,16 @@
+{
+  "name": "ansh---backend",
+  "version": "1.0.0",
+  "description": "A backend practice with chai and code",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Ansh Patel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
